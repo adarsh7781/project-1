@@ -1,2 +1,2 @@
-# project-1
-Starting a project using python 
+#Concepts
+here we will save the practical codes of important topics of python 
